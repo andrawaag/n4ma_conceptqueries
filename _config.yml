@@ -4,11 +4,7 @@ author: "Andra Waagmeester & Josh Moore"
 
 remote_theme: "jekyll/minima@master"
 
-plugins:
-  - jekyll-feed
-  - jekyll-include-cache
-  - jekyll-sitemap
-  - jekyll-datapage-generator
+baseurl: /BASEURL
 
 exclude:
   - iframe.md
