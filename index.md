@@ -110,7 +110,12 @@ Suggestions for different queries on the disease areas are welcome using this [f
   <li><a href="data.html">Data Resources</a>
     <ol>
      <li><a href="data.html#sfaira">sfaira</a></li>
-     <li><a href="data.html#tcga">TCGA</a></li>
+     <li><a href="data.html#tcga">TCGA</a>
+       <ol>
+          <li><a href="data.html#brca">All breast cancer records</a> (<b>NEW</b>)
+          <li><a href="data.html#tnbc">Mutations and slides for TNBC cases</a>
+       </ol>
+     </li>
     </ol>
   </li>
 </ol>
