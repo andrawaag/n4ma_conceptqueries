@@ -29,7 +29,7 @@ Linked data is core to FAIR data sharing and is a key component of the FAIR data
 we use Wikidata as a central hub for linked data related to the ΔTissue disease areas (TB, TBNC, GBM).
 
 Resources that are reachable via data links include:
-[Wikipathways](https://www.wikipathways.org/index.php/WikiPathways),
+[Wikipathways](https://www.wikipathways.org/index.php/WikiPathways) [[1]](#1),
 [Reactome](https://reactome.org/),
 [Uniprot](https://www.uniprot.org/),
 [OpenCitations](https://opencitations.net/),
@@ -135,5 +135,9 @@ This demonstration is written in Markdown with additional instructions consistin
 While the website itself is licensed under CC-BY-SA, all SPARQL queries in this resource can be used
 under the [CCZero license/waiver](https://creativecommons.org/share-your-work/public-domain/cc0/).
 Feedback can be sent via [this GitHub repository](https://github.com/German-BioImaging/dtqueries/).
+
+## References
+<a id="1">[1]</a> 
+Pico AR, Kelder T, van Iersel MP, Hanspers K, Conklin BR, Evelo C. (2008) WikiPathways: Pathway Editing for the People. PLoS Biol 6(7)
 
 {% include_relative navigation.md %}
